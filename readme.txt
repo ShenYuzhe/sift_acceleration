@@ -1,5 +1,7 @@
 1. running command
 
+yoyo check now
+
 cd naive
 python run.py <image_1> <image_2>
 
